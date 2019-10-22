@@ -2,4 +2,4 @@
 
 In this project, i used HTML,CSS and JavaScript to build a simple website.
 
-[Link to website](http://users.auth.gr/leonvyta/walter-white/)
+[Link to website](https://leonvitanos.github.io/Walter-White)
